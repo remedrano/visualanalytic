@@ -22,7 +22,7 @@
     <div class="m-5 b-1">
         <div class="row">
             <div class="col-12">
-                <h1>Cantidad de accidentes vehiculares por días de la semana, desde el 2016 hasta primer semestre de 2018 </h1>
+                <h1>Cantidad de accidentes vehiculares por días de la semana, desde el 2016 hasta primer semestre de 2018 en la ciudad de Envigado-Antioquia</h1>
             </div>
         </div>
     </div>
@@ -75,11 +75,11 @@
             <tbody>
                 <tr scope="row">
                     <td>1. </td>
-                    <td>Los días mércoles del mes de noviembre de 2016 fueron los días con mayores accidentes vehiculares entre el 2016 y el primer semestre del 2018.</td>
+                    <td>Los días mércoles del mes de noviembre de 2016 fueron los días con mayores accidentes vehiculares entre el 2016 y el primer semestre del 2018 en la ciudad de Envigado-Antioquia.</td>
                 </tr>
                 <tr scope="row">
                     <td>2. </td>
-                    <td>El año 2017 fué el año más accidentado entre los años 2016 y el primer semestre de 2018.</td>
+                    <td>El año 2017 fué el año más accidentado entre los años 2016 y el primer semestre de 2018 en la ciudad de Envigado-Antioquia.</td>
                 </tr>
             </tbody>
         </table>
@@ -133,41 +133,30 @@
             <tbody>
                 <tr scope="row">
                     <td>1.</td>
-                    <td style="width: 50%">Año </td>
-                    <td>Geometry, Positions, Static, Divergente</td>
+                    <td style="width: 50%">FECHA_HORA </td>
+                    <td>Temporal , Derivado, Secuencial, Estático</td>
                 </tr>
                 <tr scope="row">
                     <td>2.</td>
-                    <td style="width: 50%">Mes</td>
-                    <td>Geometry, Positions, Static, Divergente</td>
+                    <td style="width: 50%">AÑO</td>
+                    <td>Temporal, Secuencial, Derivado, Estático</td>
                 </tr>
                 <tr scope="row">
                     <td>3.</td>
-                    <td style="width: 50%">Hora y Minutos</td>
-                    <td>Temporal, Secuencial</td>
+                    <td style="width: 50%">MES</td>
+                    <td>Ordenado,Cíclico, Derivado, Estático</td>
                 </tr>
 				<tr scope="row">
                     <td>3.</td>
-                    <td style="width: 50%">FECHA_HORA</td>
-                    <td>Temporal, Secuencial</td>
+                    <td style="width: 50%">DÍA</td>
+                    <td>Ordenado, Cíclico, Estático</td>
                 </tr>
 				<tr scope="row">
                     <td>3.</td>
-                    <td style="width: 50%">Hora y Minutos</td>
-                    <td>Temporal, Secuencial</td>
-                </tr>
-                <tr scope="row">
-                    <td>5.</td>
-                    <td style="width: 50%">Valor Categoria II ($),Valor Categoria II ($), Valor Categoria III
-                        ($),<br>Valor Categoria IV ($),Valor Categoria V ($),Valor Categoria VI ($)<br>,Valor Categoria
-                        VII ($),Valor Categoria VIII ($) </td>
-                    <td>Ordenado, Cuantitativo, Divergente</td>
-                </tr>
-                <tr scope="row">
-                    <td>14.</td>
-                    <td style="width: 50%">Total ($) </td>
-                    <td>Ordenado, Divergente, Derivado, Static</td>
-                </tr>
+                    <td style="width: 50%">HORA</td>
+                    <td>Temporal,Cíclico, Derivado, Estático</td>
+                </tr>				
+       
             </tbody>
         </table>
     </div>
@@ -185,21 +174,20 @@
                 <tr scope="row">
                     <td>1.</td>
                     <td style="width: 30%">Tarea Principal </td>
-                    <td>(Identify, One-Distribuion)</td>
-                    <td>Identificar la distribución de ubicaciones de los peajes más
-                        costosos del país</td>
+                    <td>(Compare, Trends)</td>
+                    <td>Comprar tendencias sobre la cantidad de accidentes vehiculares por días de la semana entre los años 2016 a 2018 en la ciudad de Envigado-Antioquia</td>
                 </tr>
                 <tr scope="row">
-                    <td>2.</td>
+                    <td>1.1</td>
                     <td style="width: 30%">Tarea secundaria</td>
-                    <td>(Present, One-Distribution)</td>
-                    <td>Presentar los peajes según el cobro de peaje por el tipo de vehículo</td>
+                    <td>(Compare, Similarity)</td>
+                    <td>Comparar similitudes sobre las cantidades de los accidentes vehiculares para cada día de la semana durante los años 2016 al 2018.</td>
                 </tr>
                 <tr scope="row">
-                    <td>3.</td>
+                    <td>1.2</td>
                     <td style="width: 30%">Tarea secundaria </td>
-                    <td>(Summarize, Tends)</td>
-                    <td>resumir la tendencia de costos de los peajes en Colombia</td>
+                    <td>(locate,outliers)</td>
+                    <td>Localizar datoa tipicos sobre las cantidades de accidentes vehiculares.</td>
                 </tr>
             </tbody>
         </table>
@@ -218,34 +206,40 @@
                     <tr scope="row">
                         <td>1.</td>
                         <td style="width: 30%">Marks </td>
-                        <td>Puntos</td>
-                        <td>Ubicación de los peajes</td>
-                    </tr>
+                        <td>Líneas</td>
+                        <td>Días de la semana</td>
+                    </tr>					
                     <tr scope="row">
                         <td>2.</td>
                         <td style="width: 30%">Channels</td>
-                        <td>Geometry Area : Geometrica poligono</td>
-                        <td>Departamentos de colombia.</td>
+                        <td>Position (Eje X)</td>
+                        <td>Mes y Año</td>
+                    </tr>
+					<tr scope="row">
+                        <td>3.</td>
+                        <td style="width: 30%">Channels</td>
+                        <td>Position (Eje Y)</td>
+                        <td>Cantidad de accidentes vehiculares</td>
                     </tr>
 
                     <tr scope="row">
-                            <td>2.</td>
+                            <td>4.</td>
                             <td style="width: 30%">Channels</td>
                             <td>Color hue</td>
-                            <td>Distinción del precio del peaje</td>
+                            <td>Distinción del día de la semana</td>
                         </tr>                    
                     <tr scope="row">
                         <td>3.</td>
                         <td style="width: 30%">Encode</td>
-                        <td>Sequential , segmente , colormap.</td>
-                        <td>Resumir la tendencia de costos de los peajes en Colombia asociado a su ubicación</td>
+                        <td>Separate, Order, Align</td>
+                        <td>Comparar tendencias de la cantidad de accidentes</td>
                     </tr>
 
                     <tr scope="row">
                             <td>3.</td>
                             <td style="width: 30%">Modismo</td>
-                            <td>Sequential , segmente , colormap.</td>
-                            <td>Choropleth map</td>
+                            <td>Separate, Order, Align</td>
+                            <td>Multi-series Line chart</td>
                         </tr>                    
                 </tbody>
             </table>
@@ -264,25 +258,24 @@
                     <tbody>
                         <tr scope="row">
                             <td>1. </td>
-                            <td>Filtros de la parte derecha por valor total y valor de cada peaje para determinar cual es el más
-                                costoso y filtrar el mapa.</td>
+                            <td>Filtro por rango de fecha.</td>
                         </tr>
-                        <tr scope="row">
+						<tr scope="row">
                             <td>2. </td>
-                            <td>Click en el mapa para ver los detalles del peaje.</td>
+                            <td>Filtro por rango de horas</td>
                         </tr>
                         <tr scope="row">
                             <td>3. </td>
-                            <td>Selección de grupo de peajes en el mapa.</td>
+                            <td>Click en la leyenda para sobresaltar el día de la semana seleccionado.</td>
                         </tr>
                         <tr scope="row">
                             <td>4. </td>
-                            <td>Selección de fila en la tabla y filstrado en el mapa.</td>
+                            <td>Filtro de Zoom.</td>
                         </tr>
                         <tr scope="row">
                             <td>5. </td>
-                            <td>Iteración por color.</td>
-                        </tr>
+                            <td>Selección de fila en la tabla y filtrado en las diferentes series.</td>
+                        </tr>                        
                     </tbody>
                 </table>
             </div>
