@@ -1,0 +1,314 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ubicación peajes </title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+    <script type='text/javascript' src='https://prod-useast-a.online.tableau.com/javascripts/api/viz_v1.js'></script>
+</head>
+
+<body>
+
+    <div class="m-5 b-1">
+        <div class="row">
+            <div class="col-12">
+                <h1>Cantidad de accidentes vehiculares por días de la semana, desde el 2016 hasta primer semestre de 2018 </h1>
+            </div>
+        </div>
+    </div>
+    <hr>
+    
+	
+<div class='tableauPlaceholder m-5' id='viz1571110395925' style='position: relative'>
+<noscript><a href='#'>
+<img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;DatosTemporalesTarea4&#47;Inicio&#47;1_rss.png' style='border: none' /></a>
+</noscript>
+<object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
+	<param name='embed_code_version' value='3' /> <param name='site_root' value='' />
+	<param name='name' value='DatosTemporalesTarea4&#47;Inicio' />
+	<param name='tabs' value='no' /><param name='toolbar' value='yes' />
+	<param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Da&#47;DatosTemporalesTarea4&#47;Inicio&#47;1.png' /> 
+	<param name='animate_transition' value='yes' />
+	<param name='display_static_image' value='yes' />
+	<param name='display_spinner' value='yes' />
+	<param name='display_overlay' value='yes' />
+	<param name='display_count' value='yes' />
+	<param name='filter' value='publish=yes' />
+	</object>
+</div>                
+<script type='text/javascript'>                    
+	var divElement = document.getElementById('viz1571110395925');                    
+	var vizElement = divElement.getElementsByTagName('object')[0];                    
+	if ( divElement.offsetWidth > 800 ) { 
+		vizElement.style.width='100%';vizElement.style.height='98%';
+	} else if ( divElement.offsetWidth > 500 ){ 
+		vizElement.style.width='100%';vizElement.style.height='98%';
+	} 
+	else{ 
+		vizElement.style.width='100%';vizElement.style.height='827px';
+	}                     
+	var scriptElement = document.createElement('script');                    
+	scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+	vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+    <div class="d-flex justify-content-center m-5">
+
+        <table class="table col-12 table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col" colspan="2">
+                        <h4>INSIGTHS</h4>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr scope="row">
+                    <td>1. </td>
+                    <td>Los días mércoles del mes de noviembre de 2016 fueron los días con mayores accidentes vehiculares entre el 2016 y el primer semestre del 2018.</td>
+                </tr>
+                <tr scope="row">
+                    <td>2. </td>
+                    <td>El año 2017 fué el año más accidentado entre los años 2016 y el primer semestre de 2018.</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="d-flex justify-content-center m-5">
+        <table class="table col-12 table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col" colspan="2">
+                        <h4>DATASET</h4>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr scope="row">
+                    <td>Descripción </td>
+                    <td>El dataset contiene <b>17 columnas</b> con <b>19.623 filas</b> en total. Fueron utilizados <b>6
+                            columnas</b> para las gráficas. <br> De los 6 atributos seleccionados 2 fueron derivados. Unión de Fecha y Hora, y manejo de hora como timestamp dentro de Tableau.
+					</td>
+                </tr>
+                <tr scope="row">
+                    <td>Tipo </td>
+                    <td>Tabla (Campos temporales).</td>
+                </tr>
+                <tr scope="row">
+                    <td>Origen </td>
+                    <td><a
+                            href="https://www.datos.gov.co/Transporte/Accidentalidad-Envigado-2016-2017-y-Primer-Semestr/t5sw-amxr">https://www.datos.gov.co/Transporte/Accidentalidad-Envigado-2016-2017-y-Primer-Semestr/t5sw-amxr</a>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="d-flex justify-content-center m-5">
+        <table class="table col-12 table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col" colspan="3">
+                        <h4>WHAT</h4>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr scope="row">
+                    <td>1.</td>
+                    <td style="width: 50%">Latitud </td>
+                    <td>Geometry, Positions, Static, Divergente</td>
+                </tr>
+                <tr scope="row">
+                    <td>2.</td>
+                    <td style="width: 50%">Longitud</td>
+                    <td>Geometry, Positions, Static, Divergente</td>
+                </tr>
+                <tr scope="row">
+                    <td>3.</td>
+                    <td style="width: 50%">Nombre </td>
+                    <td>Categorical</td>
+                </tr>
+                <tr scope="row">
+                    <td>5.</td>
+                    <td style="width: 50%">Valor Categoria II ($),Valor Categoria II ($), Valor Categoria III
+                        ($),<br>Valor Categoria IV ($),Valor Categoria V ($),Valor Categoria VI ($)<br>,Valor Categoria
+                        VII ($),Valor Categoria VIII ($) </td>
+                    <td>Ordenado, Cuantitativo, Divergente</td>
+                </tr>
+                <tr scope="row">
+                    <td>14.</td>
+                    <td style="width: 50%">Total ($) </td>
+                    <td>Ordenado, Divergente, Derivado, Static</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="d-flex justify-content-center m-5">
+        <table class="table col-12 table-hover">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col" colspan="4">
+                        <h4>WHY</h4>
+                    </th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr scope="row">
+                    <td>1.</td>
+                    <td style="width: 30%">Tarea Principal </td>
+                    <td>(Identify, One-Distribuion)</td>
+                    <td>Identificar la distribución de ubicaciones de los peajes más
+                        costosos del país</td>
+                </tr>
+                <tr scope="row">
+                    <td>2.</td>
+                    <td style="width: 30%">Tarea secundaria</td>
+                    <td>(Present, One-Distribution)</td>
+                    <td>Presentar los peajes según el cobro de peaje por el tipo de vehículo</td>
+                </tr>
+                <tr scope="row">
+                    <td>3.</td>
+                    <td style="width: 30%">Tarea secundaria </td>
+                    <td>(Summarize, Tends)</td>
+                    <td>resumir la tendencia de costos de los peajes en Colombia</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="d-flex justify-content-center m-5">
+            <table class="table col-12 table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col" colspan="4">
+                            <h4>HOW</h4>
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr scope="row">
+                        <td>1.</td>
+                        <td style="width: 30%">Marks </td>
+                        <td>Puntos</td>
+                        <td>Ubicación de los peajes</td>
+                    </tr>
+                    <tr scope="row">
+                        <td>2.</td>
+                        <td style="width: 30%">Channels</td>
+                        <td>Geometry Area : Geometrica poligono</td>
+                        <td>Departamentos de colombia.</td>
+                    </tr>
+
+                    <tr scope="row">
+                            <td>2.</td>
+                            <td style="width: 30%">Channels</td>
+                            <td>Color hue</td>
+                            <td>Distinción del precio del peaje</td>
+                        </tr>                    
+                    <tr scope="row">
+                        <td>3.</td>
+                        <td style="width: 30%">Encode</td>
+                        <td>Sequential , segmente , colormap.</td>
+                        <td>Resumir la tendencia de costos de los peajes en Colombia asociado a su ubicación</td>
+                    </tr>
+
+                    <tr scope="row">
+                            <td>3.</td>
+                            <td style="width: 30%">Modismo</td>
+                            <td>Sequential , segmente , colormap.</td>
+                            <td>Choropleth map</td>
+                        </tr>                    
+                </tbody>
+            </table>
+        </div>
+
+        <div class="d-flex justify-content-center m-5">
+
+                <table class="table col-12 table-hover">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th scope="col" colspan="3">
+                                <h4>INTERACTIVIDAD</h4>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr scope="row">
+                            <td>1. </td>
+                            <td>Filtros de la parte derecha por valor total y valor de cada peaje para determinar cual es el más
+                                costoso y filtrar el mapa.</td>
+                        </tr>
+                        <tr scope="row">
+                            <td>2. </td>
+                            <td>Click en el mapa para ver los detalles del peaje.</td>
+                        </tr>
+                        <tr scope="row">
+                            <td>3. </td>
+                            <td>Selección de grupo de peajes en el mapa.</td>
+                        </tr>
+                        <tr scope="row">
+                            <td>4. </td>
+                            <td>Selección de fila en la tabla y filstrado en el mapa.</td>
+                        </tr>
+                        <tr scope="row">
+                            <td>5. </td>
+                            <td>Iteración por color.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+    
+
+
+            <div class="d-flex justify-content-center m-5">
+
+                    <table class="table col-12 table-hover">
+                            <thead class="thead-dark">
+                                <tr>
+                                    <th scope="col" colspan="1">
+                                        <h4>LICENCIA</h4>
+                                    </th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td>
+                                            MIT License
+                                            Copyright (c) 2019 Rafael Medrano Torres
+                                            Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated
+                                            documentation files (the "Software"), to deal in the Software without restriction, including without limitation the
+                                            rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to
+                                            permit persons to whom the Software is furnished to do so, subject to the following conditions:
+                                        
+                                            The above copyright notice and this permission notice shall be included in all copies or substantial portions of the
+                                            Software.
+                                        
+                                            THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE
+                                            WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS
+                                            OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+                                            OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+                                    </td>
+                                </tr>
+    
+
+    </tbody>
+    </table><table></table>
+</div>
+
+
+</body>
+
+</html>
