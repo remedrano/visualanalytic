@@ -4,98 +4,98 @@
           "id": "BOGOTA (BOG)",
           "Nombre": "Aeropuerto el Dorado",
 		  "Municipio":"BOGOTA D.C.",
-		  "CantidadPasajeros": 302668	
+		  "CantidadPasajeros": 600000	
         },
         {
           "id": "RIONEGRO (MDE)",
           "Nombre": "Aeropuerto Internacional José María Córdova",
 		  "Ciudad":"RIONEGRO",
-		  "CantidadPasajeros": 302668	
+		  "CantidadPasajeros": 500000	
         },
         {
           "id": "CARTAGENA (CTG)",
           "Nombre": "Aeropuerto Internacional Rafael Núñez",
 		  "Ciudad":"CARTAGENA",
-		  "CantidadPasajeros": 302668	
+		  "CantidadPasajeros": 500000	
         },
         {
 		  "id": "CALI (CLO)",
           "Nombre": "Cali aeropuerto",
 		  "Ciudad":"CALI",
-		  "CantidadPasajeros": 302668	
+		  "CantidadPasajeros": 700000	
         },             
 		{
 		  "id": "BARRANQUILLA (BAQ)",
           "Nombre": "Barranquilla aeropuerto",
 		  "Ciudad":"BARRANQUILLA",
-		  "CantidadPasajeros": 302668	
+		  "CantidadPasajeros": 800000	
         }, 
 		{
 		  "id": "SANTA MARTA (SMR)",
           "Nombre": "Santa marta Aeropuerto",
 		  "Ciudad":"SANTA MARTA",
-		  "CantidadPasajeros": 302668	
+		  "CantidadPasajeros": 900000	
         },
 		{
 		  "id": "BUCARAMANGA (BGA)",
           "Nombre": "Bucaramanga aeropuerto",
 		  "Ciudad":"BUCARAMANGA",
-		  "CantidadPasajeros": 302668
+		  "CantidadPasajeros": 300000
 		  
         }, 
 		{
 		  "id": "PEREIRA (PEI)",
           "Nombre": "Pereira aeropuerto",
 		  "Ciudad":"PEREIRA",
-		  "CantidadPasajeros": 302668		  
+		  "CantidadPasajeros": 200000		  
         }, 
 		{
 		  "id": "SAN ANDRES - ISLA (ADZ)",
           "Nombre": "San Andrés aeropuerto",
 		  "Ciudad":"SAN ANDRES",
-		  "CantidadPasajeros": 302668
+		  "CantidadPasajeros": 700000
         }
       ],
       "links": [
         {
           "source": "BOGOTA (BOG)",
           "target": "RIONEGRO (MDE)",
-          "CantidadPasajeros": 302668
+          "CantidadPasajeros": 600000
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "CARTAGENA (CTG)",
-          "CantidadPasajeros": 185956
+          "CantidadPasajeros": 750000
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "CALI (CLO)",
-          "CantidadPasajeros": 179552
+          "CantidadPasajeros": 200000
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "BARRANQUILLA (BAQ)",
-          "CantidadPasajeros": 120571
+          "CantidadPasajeros": 300000
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "SANTA MARTA (SMR)",
-          "CantidadPasajeros": 111201
+          "CantidadPasajeros": 400000
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "BUCARAMANGA (BGA)",
-          "CantidadPasajeros": 92979
+          "CantidadPasajeros": 500000
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "PEREIRA (PEI)",
-          "CantidadPasajeros": 78234
+          "CantidadPasajeros": 200000
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "SAN ANDRES - ISLA (ADZ)",
-          "CantidadPasajeros": 74983
+          "CantidadPasajeros": 700000
         }
       ]
 }
