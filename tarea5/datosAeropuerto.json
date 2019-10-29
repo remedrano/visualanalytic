@@ -216,42 +216,185 @@
         {
           "source": "BOGOTA (BOG)",
           "target": "RIONEGRO (MDE)",
-          "CantidadPasajeros": 600000
+          "CantidadPasajeros": 302668,		
+		  "porcentaje":14.33
+
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "CARTAGENA (CTG)",
-          "CantidadPasajeros": 750000
+          "CantidadPasajeros": 185956,
+		  "porcentaje":8.80
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "CALI (CLO)",
-          "CantidadPasajeros": 200000
+          "CantidadPasajeros": 179552,
+		  "porcentaje":8.50
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "BARRANQUILLA (BAQ)",
-          "CantidadPasajeros": 300000
+          "CantidadPasajeros": 120571,
+		  "porcentaje":5.71
+
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "SANTA MARTA (SMR)",
-          "CantidadPasajeros": 400000
+          "CantidadPasajeros": 111201,
+		  "porcentaje":5,26
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "BUCARAMANGA (BGA)",
-          "CantidadPasajeros": 500000
+          "CantidadPasajeros": 92979,
+		  "porcentaje":4.40
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "PEREIRA (PEI)",
-          "CantidadPasajeros": 200000
+          "CantidadPasajeros": 78234,
+		  "porcentaje":3.70
+
         },
         {
           "source": "BOGOTA (BOG)",
           "target": "SAN ANDRES - ISLA (ADZ)",
-          "CantidadPasajeros": 700000
+          "CantidadPasajeros": 74983,
+		  "porcentaje":3.55	  		 		  	
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "CUCUTA (CUC)",
+          "CantidadPasajeros": 53609,
+		  "porcentaje":2.54
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "MONTERIA (MTR)",
+          "CantidadPasajeros": 48102,
+		  "porcentaje":2.28
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "VALLEDUPAR (VUP)",
+          "CantidadPasajeros": 32689,
+		  "porcentaje":1.55
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "EL YOPAL (EYP))",
+          "CantidadPasajeros": 24771,
+		  "porcentaje":1.17		  		  
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "NEIVA (NVA)",
+          "CantidadPasajeros": 23879,
+		  "porcentaje":1.13
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "ARMENIA (AXM)",
+          "CantidadPasajeros": 22221,
+		  "porcentaje":1.05
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "LETICIA (LET)",
+          "CantidadPasajeros": 17470,
+		  "porcentaje":0.83
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "PASTO (PSO)",
+          "CantidadPasajeros": 17326,
+		  "porcentaje":0.82
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "RIOHACHA (RCH)",
+          "CantidadPasajeros": 16779,
+		  "porcentaje":0.79
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "MANIZALES (MZL)",
+          "CantidadPasajeros": 16261,
+		  "porcentaje":0.77
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "VILLAVICENCIO (VVC)",
+          "CantidadPasajeros": 14149,
+		  "porcentaje":0.67
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "MEDELLIN (EOH)",
+          "CantidadPasajeros": 10748,
+		  "porcentaje":0.51
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "BARRANCABERMEJA (EJA)",
+          "CantidadPasajeros": 9705,
+		  "porcentaje":0.46
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "POPAYAN (PPN)",
+          "CantidadPasajeros": 8820	,
+		  "porcentaje":0.42
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "FLORENCIA (FLA)",
+          "CantidadPasajeros": 8533,
+		  "porcentaje":0.40
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "ARAUCA - MUNICIPIO (AUC)",
+          "CantidadPasajeros": 7797,
+		  "porcentaje":0.37
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "IBAGUE (IBE)",
+          "CantidadPasajeros": 7089,
+		  "porcentaje":0.34
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "QUIBDO (UIB)",
+          "CantidadPasajeros": 6736,
+		  "porcentaje":0.32
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "PUERTO ASIS (PUU)",
+          "CantidadPasajeros": 6586,
+		  "porcentaje":0.31
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "COROZAL (CZU)",
+          "CantidadPasajeros": 4655,
+		  "porcentaje":0.22		
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "PUERTO GAITAN (PGT)",
+          "CantidadPasajeros": 4592,
+		  "porcentaje":0.22
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "TUMACO (TCO)",
+          "CantidadPasajeros": 3914,
+		  "porcentaje":0.19
         }
       ]
 }
