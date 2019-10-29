@@ -17,32 +17,32 @@
         },
         {
 		  "id": "CALI (CLO)",
-          "Nombre": "",
+          "Nombre": "Cali aeropuerto",
 		  "Ciudad":"CALI"	
         },             
 		{
 		  "id": "BARRANQUILLA (BAQ)",
-          "Nombre": "",
+          "Nombre": "Barranquilla aeropuerto",
 		  "Ciudad":"BARRANQUILLA"	
         }, 
 		{
 		  "id": "SANTA MARTA (SMR)",
-          "Nombre": "",
+          "Nombre": "Santa marta Aeropuerto",
 		  "Ciudad":"SANTA MARTA"	
         },
 		{
 		  "id": "BUCARAMANGA (BGA)",
-          "Nombre": "",
+          "Nombre": "Bucaramanga aeropuerto",
 		  "Ciudad":"BUCARAMANGA"	
         }, 
 		{
 		  "id": "PEREIRA (PEI)",
-          "Nombre": "",
+          "Nombre": "Pereira aeropuerto",
 		  "Ciudad":"PEREIRA"	
         }, 
 		{
 		  "id": "SAN ANDRES - ISLA (ADZ)",
-          "Nombre": "",
+          "Nombre": "San Andrés aeropuerto",
 		  "Ciudad":"SAN ANDRES"	
         }
       ],
