@@ -27,7 +27,14 @@
 		  "Ciudad":"CALI",
 		  "CantidadPasajeros": 1451239,
 		  "porcentaje":14.10
-        },             
+        },     
+		{
+		  "id": "BARRANCABERMEJA (EJA)",
+          "Nombre": "Aeropuerto Yariguíes",
+		  "Ciudad":"BARRANCABERMEJA",
+		  "CantidadPasajeros": 44467,	
+		  "porcentaje":0.43		  		  
+        },         
 		{
 		  "id": "BARRANQUILLA (BAQ)",
           "Nombre": "Aeropuerto Internacional Ernesto Cortissoz",
