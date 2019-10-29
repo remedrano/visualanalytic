@@ -3,47 +3,57 @@
         {
           "id": "BOGOTA (BOG)",
           "Nombre": "Aeropuerto el Dorado",
-		  "Municipio":"BOGOTA D.C."	
+		  "Municipio":"BOGOTA D.C.",
+		  "CantidadPasajeros": 302668	
         },
         {
           "id": "RIONEGRO (MDE)",
           "Nombre": "Aeropuerto Internacional José María Córdova",
-		  "Ciudad":"RIONEGRO"	
+		  "Ciudad":"RIONEGRO",
+		  "CantidadPasajeros": 302668	
         },
         {
           "id": "CARTAGENA (CTG)",
           "Nombre": "Aeropuerto Internacional Rafael Núñez",
-		  "Ciudad":"CARTAGENA"	
+		  "Ciudad":"CARTAGENA",
+		  "CantidadPasajeros": 302668	
         },
         {
 		  "id": "CALI (CLO)",
           "Nombre": "Cali aeropuerto",
-		  "Ciudad":"CALI"	
+		  "Ciudad":"CALI",
+		  "CantidadPasajeros": 302668	
         },             
 		{
 		  "id": "BARRANQUILLA (BAQ)",
           "Nombre": "Barranquilla aeropuerto",
-		  "Ciudad":"BARRANQUILLA"	
+		  "Ciudad":"BARRANQUILLA",
+		  "CantidadPasajeros": 302668	
         }, 
 		{
 		  "id": "SANTA MARTA (SMR)",
           "Nombre": "Santa marta Aeropuerto",
-		  "Ciudad":"SANTA MARTA"	
+		  "Ciudad":"SANTA MARTA",
+		  "CantidadPasajeros": 302668	
         },
 		{
 		  "id": "BUCARAMANGA (BGA)",
           "Nombre": "Bucaramanga aeropuerto",
-		  "Ciudad":"BUCARAMANGA"	
+		  "Ciudad":"BUCARAMANGA",
+		  "CantidadPasajeros": 302668
+		  
         }, 
 		{
 		  "id": "PEREIRA (PEI)",
           "Nombre": "Pereira aeropuerto",
-		  "Ciudad":"PEREIRA"	
+		  "Ciudad":"PEREIRA",
+		  "CantidadPasajeros": 302668		  
         }, 
 		{
 		  "id": "SAN ANDRES - ISLA (ADZ)",
           "Nombre": "San Andrés aeropuerto",
-		  "Ciudad":"SAN ANDRES"	
+		  "Ciudad":"SAN ANDRES",
+		  "CantidadPasajeros": 302668
         }
       ],
       "links": [
