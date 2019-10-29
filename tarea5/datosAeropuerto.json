@@ -218,6 +218,14 @@
 		  "Ciudad":"PUERTO GAITAN",
 		  "CantidadPasajeros": 19505,
 		  "porcentaje":0.19
+        }		
+		, 
+		{
+		  "id": "POPAYAN (PPN)",
+          "Nombre": "Aeropuerto Guillermo León Valencia",
+		  "Ciudad":"POPAYAN",
+		  "CantidadPasajeros": 42367,
+		  "porcentaje":0.41
         }
       ],
       "links": [
