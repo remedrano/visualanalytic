@@ -3,7 +3,7 @@
         {
           "id": "BOGOTA (BOG)",
           "Nombre": "Aeropuerto el Dorado",
-		  "Municipio":"BOGOTA D.C.",
+		  "Ciudad":"BOGOTA D.C.",
 		  "CantidadPasajeros": 7138077,
 		  "porcentaje":69.36
         },
