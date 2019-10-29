@@ -20,39 +20,165 @@
         },
         {
 		  "id": "CALI (CLO)",
-          "Nombre": "Cali aeropuerto",
+          "Nombre": "Aeropuerto Internacional Alfonso Bonilla Aragón",
 		  "Ciudad":"CALI",
 		  "CantidadPasajeros": 700000	
         },             
 		{
 		  "id": "BARRANQUILLA (BAQ)",
-          "Nombre": "Barranquilla aeropuerto",
+          "Nombre": "Aeropuerto Internacional Ernesto Cortissoz",
 		  "Ciudad":"BARRANQUILLA",
 		  "CantidadPasajeros": 800000	
         }, 
 		{
 		  "id": "SANTA MARTA (SMR)",
-          "Nombre": "Santa marta Aeropuerto",
+          "Nombre": "Aeropuerto Internacional Simón Bolívar",
 		  "Ciudad":"SANTA MARTA",
 		  "CantidadPasajeros": 900000	
         },
 		{
 		  "id": "BUCARAMANGA (BGA)",
-          "Nombre": "Bucaramanga aeropuerto",
+          "Nombre": "Aeropuerto Internacional Palonegro",
 		  "Ciudad":"BUCARAMANGA",
 		  "CantidadPasajeros": 300000
 		  
         }, 
 		{
 		  "id": "PEREIRA (PEI)",
-          "Nombre": "Pereira aeropuerto",
+          "Nombre": "Aeropuerto Internacional Matecaña",
 		  "Ciudad":"PEREIRA",
 		  "CantidadPasajeros": 200000		  
         }, 
 		{
 		  "id": "SAN ANDRES - ISLA (ADZ)",
-          "Nombre": "San Andrés aeropuerto",
+          "Nombre": "Aeropuerto Internacional Gustavo Rojas Pinilla",
 		  "Ciudad":"SAN ANDRES",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "CUCUTA (CUC)",
+          "Nombre": "Aeropuerto Internacional Camilo Daza ",
+		  "Ciudad":"CUCUTA",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "MONTERIA (MTR)",
+          "Nombre": "Aeropuerto Internacional Los Garzones ",
+		  "Ciudad":"MONTERIA",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "VALLEDUPAR (VUP)",
+          "Nombre": "Aeropuerto Alfonso López Pumarejo",
+		  "Ciudad":"VALLEDUPAR",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "EL YOPAL (EYP)",
+          "Nombre": "Aeropuerto El Alcaraván",
+		  "Ciudad":"YOPAL",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "NEIVA (NVA)",
+          "Nombre": "Aeropuerto Benito Salas",
+		  "Ciudad":"NEIVA",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "ARMENIA (AXM)",
+          "Nombre": "Aeropuerto Internacional El Edén",
+		  "Ciudad":"ARMENIA",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "MEDELLIN (EOH)",
+          "Nombre": "Aeropuerto Enrique Olaya Herrera",
+		  "Ciudad":"MEDELLIN",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "QUIBDO (UIB)",
+          "Nombre": "Aeropuerto El Caraño",
+		  "Ciudad":"QUIBDO",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "CAREPA (APO)",
+          "Nombre": "Aeropuerto Antonio Roldán Betancourt",
+		  "Ciudad":"CAREPA",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "LETICIA (LET)",
+          "Nombre": "Aeropuerto Alfredo Vázquez Cobo",
+		  "Ciudad":"LETICIA",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "PASTO (PSO)",
+          "Nombre": "Aeropuerto Antonio Nariño",
+		  "Ciudad":"PASTO",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "RIOHACHA (RCH)",
+          "Nombre": "Aeropuerto Almirante Padilla",
+		  "Ciudad":"RIOHACHA",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "MANIZALES (MZL)",
+          "Nombre": "Aeropuerto La Nubia",
+		  "Ciudad":"MANIZALES",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "VILLAVICENCIO (VVC)",
+          "Nombre": "Aeropuerto Vanguardia",
+		  "Ciudad":"VILLAVICENCIO",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "FLORENCIA (FLA)",
+          "Nombre": "Aeropuerto Gustavo Artunduaga",
+		  "Ciudad":"FLORENCIA",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "ARAUCA - MUNICIPIO (AUC)",
+          "Nombre": "Aeropuerto Santiago Pérez Quiroz",
+		  "Ciudad":"ARAUCA",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "IBAGUE (IBE)",
+          "Nombre": "Aeropuerto Perales",
+		  "Ciudad":"IBAGUE",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "PUERTO ASIS (PUU)",
+          "Nombre": "Aeropuerto Tres de Mayo",
+		  "Ciudad":"PUERTO ASIS",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "TUMACO (TCO)",
+          "Nombre": "Aeropuerto La Florida",
+		  "Ciudad":"TUMACO",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "COROZAL (CZU)",
+          "Nombre": "Aeropuerto Las Brujas",
+		  "Ciudad":"COROZAL",
+		  "CantidadPasajeros": 700000
+        }, 
+		{
+		  "id": "PUERTO GAITAN (PGT)",
+          "Nombre": "Aeropuerto Morelia",
+		  "Ciudad":"PUERTO GAITAN",
 		  "CantidadPasajeros": 700000
         }
       ],
