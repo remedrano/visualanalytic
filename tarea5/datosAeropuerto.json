@@ -394,8 +394,6 @@
           "CantidadPasajeros": 18061,
 		  "porcentaje":0.18
         },
-
-		--------------------------
         {
           "source": "RIONEGRO (MDE)",
           "target": "MONTERIA (MTR)",
@@ -420,8 +418,6 @@
           "CantidadPasajeros": 13802,
 		  "porcentaje":0.13
         },
-		
-		-------------------------------------
         {
           "source": "CARTAGENA (CTG)",
           "target": "RIONEGRO (MDE)",
@@ -440,7 +436,6 @@
           "CantidadPasajeros": 28208,
 		  "porcentaje":0.27
         },
-		_--------------------------------
         {
           "source": "CALI (CLO)",
           "target": "RIONEGRO (MDE)",
@@ -483,7 +478,6 @@
           "CantidadPasajeros": 19896,
 		  "porcentaje":0.19
         },
-		------------------------------------------------
         {
           "source": "BARRANQUILLA (BAQ)",
           "target": "RIONEGRO (MDE)",
@@ -495,9 +489,7 @@
           "target": "BUCARAMANGA (BGA)",
           "CantidadPasajeros": 21029,
 		  "porcentaje":0.20
-
         },
-		---------------------------------------------------------------
         {
           "source": "BUCARAMANGA (BGA)",
           "target": "MEDELLIN (EOH)",
@@ -509,16 +501,13 @@
           "target": "SANTA MARTA (SMR)",
           "CantidadPasajeros": 26018,
 		  "porcentaje":0.25		  
-
         },
-		------------------------------------------------
 		{
           "source": "PEREIRA (PEI)",
           "target": "SANTA MARTA (SMR)",
           "CantidadPasajeros": 43200,
 		  "porcentaje":0.42
         },
-		----------------------------------------------
         {
           "source": "SAN ANDRES - ISLA (ADZ)",
           "target": "RIONEGRO (MDE)",
@@ -549,15 +538,12 @@
           "CantidadPasajeros": 28403,
 		  "porcentaje":0.28
         },
-		--------------------------------------------------------------
         {
           "source": "CUCUTA (CUC)",
           "target": "BUCARAMANGA (BGA)",
           "CantidadPasajeros": 21265,
 		  "porcentaje":0.21		
         },
-		------------------------------------------
-		
         {
           "source": "MEDELLIN (EOH)",
           "target": "QUIBDO (UIB)",
@@ -582,14 +568,11 @@
           "CantidadPasajeros": 17270,
 		  "porcentaje":0.17
         },
-		---------------------------------------------------
         {
           "source": "CAREPA (APO)",
           "target": "MEDELLIN (EOH)",
           "CantidadPasajeros": 77222,
 		  "porcentaje":0.75
-        },
-	
-		
+        }	
       ]
 }
