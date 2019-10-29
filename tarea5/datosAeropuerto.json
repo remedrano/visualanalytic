@@ -1,0 +1,91 @@
+{
+    "nodes": [
+        {
+          "id": "BOGOTA (BOG)",
+          "Nombre": "Aeropuerto el Dorado",
+		  "Municipio":"BOGOTA D.C."	
+        },
+        {
+          "id": "RIONEGRO (MDE)",
+          "Nombre": "Aeropuerto Internacional José María Córdova",
+		  "Ciudad":"RIONEGRO"	
+        },
+        {
+          "id": "CARTAGENA (CTG)",
+          "Nombre": "Aeropuerto Internacional Rafael Núñez",
+		  "Ciudad":"CARTAGENA"	
+        },
+        {
+		  "id": "CALI (CLO)",
+          "Nombre": "",
+		  "Ciudad":"CALI"	
+        },             
+		{
+		  "id": "BARRANQUILLA (BAQ)",
+          "Nombre": "",
+		  "Ciudad":"BARRANQUILLA"	
+        }, 
+		{
+		  "id": "SANTA MARTA (SMR)",
+          "Nombre": "",
+		  "Ciudad":"SANTA MARTA"	
+        },
+		{
+		  "id": "BUCARAMANGA (BGA)",
+          "Nombre": "",
+		  "Ciudad":"BUCARAMANGA"	
+        }, 
+		{
+		  "id": "PEREIRA (PEI)",
+          "Nombre": "",
+		  "Ciudad":"PEREIRA"	
+        }, 
+		{
+		  "id": "SAN ANDRES - ISLA (ADZ)",
+          "Nombre": "",
+		  "Ciudad":"SAN ANDRES"	
+        }, 
+      ],
+      "links": [
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "RIONEGRO (MDE)",
+          "CantidadPasajeros": 302668
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "CARTAGENA (CTG)",
+          "CantidadPasajeros": 185956
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "CALI (CLO)",
+          "CantidadPasajeros": 179552
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "BARRANQUILLA (BAQ)",
+          "CantidadPasajeros": 120571
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "SANTA MARTA (SMR)",
+          "CantidadPasajeros": 111201
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "BUCARAMANGA (BGA)",
+          "CantidadPasajeros": 92979
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "PEREIRA (PEI)",
+          "CantidadPasajeros": 78234
+        },
+        {
+          "source": "BOGOTA (BOG)",
+          "target": "SAN ANDRES - ISLA (ADZ)",
+          "CantidadPasajeros": 74983
+        }
+      ]
+}
