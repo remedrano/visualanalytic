@@ -4,74 +4,87 @@
           "id": "BOGOTA (BOG)",
           "Nombre": "Aeropuerto el Dorado",
 		  "Municipio":"BOGOTA D.C.",
-		  "CantidadPasajeros": 600000	
+		  "CantidadPasajeros": 7138077,
+		  "porcentaje":69.36
         },
         {
           "id": "RIONEGRO (MDE)",
           "Nombre": "Aeropuerto Internacional José María Córdova",
 		  "Ciudad":"RIONEGRO",
-		  "CantidadPasajeros": 500000	
+		  "CantidadPasajeros": 2588033,
+		  "porcentaje":25.15
         },
         {
           "id": "CARTAGENA (CTG)",
           "Nombre": "Aeropuerto Internacional Rafael Núñez",
 		  "Ciudad":"CARTAGENA",
-		  "CantidadPasajeros": 500000	
+		  "CantidadPasajeros": 1788081,
+		  "porcentaje":17.37
         },
         {
 		  "id": "CALI (CLO)",
           "Nombre": "Aeropuerto Internacional Alfonso Bonilla Aragón",
 		  "Ciudad":"CALI",
-		  "CantidadPasajeros": 700000	
+		  "CantidadPasajeros": 1451239,
+		  "porcentaje":14.10
         },             
 		{
 		  "id": "BARRANQUILLA (BAQ)",
           "Nombre": "Aeropuerto Internacional Ernesto Cortissoz",
 		  "Ciudad":"BARRANQUILLA",
-		  "CantidadPasajeros": 800000	
+		  "CantidadPasajeros": 846016,	
+		  "porcentaje":8.22
         }, 
 		{
 		  "id": "SANTA MARTA (SMR)",
           "Nombre": "Aeropuerto Internacional Simón Bolívar",
 		  "Ciudad":"SANTA MARTA",
-		  "CantidadPasajeros": 900000	
+		  "CantidadPasajeros": 930339,
+		  "porcentaje":9.04
         },
 		{
 		  "id": "BUCARAMANGA (BGA)",
           "Nombre": "Aeropuerto Internacional Palonegro",
 		  "Ciudad":"BUCARAMANGA",
-		  "CantidadPasajeros": 300000
+		  "CantidadPasajeros": 590793,
+		  "porcentaje":5.74
 		  
         }, 
 		{
 		  "id": "PEREIRA (PEI)",
           "Nombre": "Aeropuerto Internacional Matecaña",
 		  "Ciudad":"PEREIRA",
-		  "CantidadPasajeros": 200000		  
+		  "CantidadPasajeros": 566459,
+		  "porcentaje":5.50
+		  
         }, 
 		{
 		  "id": "SAN ANDRES - ISLA (ADZ)",
           "Nombre": "Aeropuerto Internacional Gustavo Rojas Pinilla",
 		  "Ciudad":"SAN ANDRES",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 833314,
+		  "porcentaje":8.10
         }, 
 		{
 		  "id": "CUCUTA (CUC)",
           "Nombre": "Aeropuerto Internacional Camilo Daza ",
 		  "Ciudad":"CUCUTA",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 297079,
+		  "porcentaje":2.89
         }, 
 		{
 		  "id": "MONTERIA (MTR)",
           "Nombre": "Aeropuerto Internacional Los Garzones ",
 		  "Ciudad":"MONTERIA",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 347649,
+		  "porcentaje":3.38
         }, 
 		{
 		  "id": "VALLEDUPAR (VUP)",
           "Nombre": "Aeropuerto Alfonso López Pumarejo",
 		  "Ciudad":"VALLEDUPAR",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 142535,
+		  "porcentaje":1.38
         }, 
 		{
 		  "id": "EL YOPAL (EYP)",
@@ -83,103 +96,120 @@
 		  "id": "NEIVA (NVA)",
           "Nombre": "Aeropuerto Benito Salas",
 		  "Ciudad":"NEIVA",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 96688,
+		  "porcentaje":0.94
         }, 
 		{
 		  "id": "ARMENIA (AXM)",
           "Nombre": "Aeropuerto Internacional El Edén",
 		  "Ciudad":"ARMENIA",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 106566,
+		  "porcentaje":1.04
         }, 
 		{
 		  "id": "MEDELLIN (EOH)",
           "Nombre": "Aeropuerto Enrique Olaya Herrera",
 		  "Ciudad":"MEDELLIN",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 346432,
+		  "porcentaje":3.37
         }, 
 		{
 		  "id": "QUIBDO (UIB)",
           "Nombre": "Aeropuerto El Caraño",
 		  "Ciudad":"QUIBDO",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 122584,
+		  "porcentaje":1.19
         }, 
 		{
 		  "id": "CAREPA (APO)",
           "Nombre": "Aeropuerto Antonio Roldán Betancourt",
 		  "Ciudad":"CAREPA",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 77222,
+		  "porcentaje":0.75
         }, 
 		{
 		  "id": "LETICIA (LET)",
           "Nombre": "Aeropuerto Alfredo Vázquez Cobo",
 		  "Ciudad":"LETICIA",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 83727,
+		  "porcentaje":0.81
         }, 
 		{
 		  "id": "PASTO (PSO)",
           "Nombre": "Aeropuerto Antonio Nariño",
 		  "Ciudad":"PASTO",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 102930,
+		  "porcentaje":1
         }, 
 		{
 		  "id": "RIOHACHA (RCH)",
           "Nombre": "Aeropuerto Almirante Padilla",
 		  "Ciudad":"RIOHACHA",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 80017,
+		  "porcentaje":0.78
         }, 
 		{
 		  "id": "MANIZALES (MZL)",
           "Nombre": "Aeropuerto La Nubia",
 		  "Ciudad":"MANIZALES",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 86167,
+		  "porcentaje":0.84
         }, 
 		{
 		  "id": "VILLAVICENCIO (VVC)",
           "Nombre": "Aeropuerto Vanguardia",
 		  "Ciudad":"VILLAVICENCIO",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 29708,
+		  "porcentaje":0.29
         }, 
 		{
 		  "id": "FLORENCIA (FLA)",
           "Nombre": "Aeropuerto Gustavo Artunduaga",
 		  "Ciudad":"FLORENCIA",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 38642,
+		  "porcentaje":0.38
         }, 
 		{
 		  "id": "ARAUCA - MUNICIPIO (AUC)",
           "Nombre": "Aeropuerto Santiago Pérez Quiroz",
 		  "Ciudad":"ARAUCA",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 35988,
+		  "porcentaje":0.35
         }, 
 		{
 		  "id": "IBAGUE (IBE)",
           "Nombre": "Aeropuerto Perales",
 		  "Ciudad":"IBAGUE",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 31817,
+		  "porcentaje":0.31
         }, 
 		{
 		  "id": "PUERTO ASIS (PUU)",
           "Nombre": "Aeropuerto Tres de Mayo",
 		  "Ciudad":"PUERTO ASIS",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 29780,
+		  "porcentaje":0.29
         }, 
 		{
 		  "id": "TUMACO (TCO)",
           "Nombre": "Aeropuerto La Florida",
 		  "Ciudad":"TUMACO",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 47912,
+		  "porcentaje":0.47
         }, 
 		{
 		  "id": "COROZAL (CZU)",
           "Nombre": "Aeropuerto Las Brujas",
 		  "Ciudad":"COROZAL",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 24560,
+		  "porcentaje":0.24
         }, 
 		{
 		  "id": "PUERTO GAITAN (PGT)",
           "Nombre": "Aeropuerto Morelia",
 		  "Ciudad":"PUERTO GAITAN",
-		  "CantidadPasajeros": 700000
+		  "CantidadPasajeros": 19505,
+		  "porcentaje":0.19
         }
       ],
       "links": [
